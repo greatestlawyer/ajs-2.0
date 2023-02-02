@@ -1,0 +1,23 @@
+{
+  "name": "@greatestlawyer/ajs-2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "serve": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatestlawyer/ajs-2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatestlawyer/ajs-2.0/issues"
+  },
+  "homepage": "https://github.com/greatestlawyer/ajs-2.0#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
